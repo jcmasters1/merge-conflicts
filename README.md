@@ -18,3 +18,5 @@ This course is using the :sparkles: open source project [resume-template](https:
 
 MAIN change 1
 
+MAIN change 2
+
