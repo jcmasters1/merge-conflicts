@@ -2,6 +2,8 @@ Change 1 in branch
 
 Change 2 in branch
 
+Change 3 in branch, not in origin/joerebasebranch
+
 ## Your GitHub Learning Lab Repository for Managing Merge Conflicts
 
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
